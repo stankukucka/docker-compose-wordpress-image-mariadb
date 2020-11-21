@@ -1,4 +1,4 @@
 # docker-compose-wordpress-image-mariadb
 docker compose wordpress image mariadb
 
-Licence: cc-by-sa-4.0
+Licence: Attribution 4.0 International (CC BY 4.0)
